@@ -57,7 +57,6 @@ node --version
 
 ![](images/013.png)
 
-
 ### npmコマンドの確認
 
 ```bash
